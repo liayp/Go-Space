@@ -47,7 +47,4 @@ L.Control.Search = L.Control.extend({
 
 
 })
-function abc(){
-L.Layer()
-}
   

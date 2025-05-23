@@ -1,6 +1,5 @@
 import "leaflet/dist/leaflet.css";
 import "leaflet-search/dist/leaflet-search.min.css";
-import L from "leaflet";
 
 import {
   LayerGroup,
